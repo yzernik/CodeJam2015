@@ -1,4 +1,4 @@
-package com.github.yzernik.codejam2015.qualification;
+package io.github.yzernik.codejam2015.qualification;
 
 import java.util.Scanner;
 
